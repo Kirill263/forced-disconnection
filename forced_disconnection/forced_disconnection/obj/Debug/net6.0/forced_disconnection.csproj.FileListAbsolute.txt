@@ -1,0 +1,15 @@
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\bin\Debug\net6.0\forced_disconnection.exe
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\bin\Debug\net6.0\forced_disconnection.deps.json
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\bin\Debug\net6.0\forced_disconnection.runtimeconfig.json
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\bin\Debug\net6.0\forced_disconnection.dll
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\bin\Debug\net6.0\forced_disconnection.pdb
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.csproj.AssemblyReference.cache
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.AssemblyInfoInputs.cache
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.AssemblyInfo.cs
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.csproj.CoreCompileInputs.cache
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.dll
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\refint\forced_disconnection.dll
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.pdb
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\forced_disconnection.genruntimeconfig.cache
+C:\programing\forced-disconnection\forced_disconnection\forced_disconnection\obj\Debug\net6.0\ref\forced_disconnection.dll
